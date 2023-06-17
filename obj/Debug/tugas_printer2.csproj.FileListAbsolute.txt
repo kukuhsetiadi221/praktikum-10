@@ -1,0 +1,8 @@
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\bin\Debug\tugas_printer2.exe.config
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\bin\Debug\tugas_printer2.exe
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\bin\Debug\tugas_printer2.pdb
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\obj\Debug\tugas_printer2.csproj.AssemblyReference.cache
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\obj\Debug\tugas_printer2.csproj.SuggestedBindingRedirects.cache
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\obj\Debug\tugas_printer2.csproj.CoreCompileInputs.cache
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\obj\Debug\tugas_printer2.exe
+D:\Pemrograman C#\praktikum 10\tugas_printer2\tugas_printer2\obj\Debug\tugas_printer2.pdb
